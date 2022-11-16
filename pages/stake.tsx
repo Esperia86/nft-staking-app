@@ -123,7 +123,7 @@ const Stake: NextPage = () => {
         </button>
       ) : (
         <>
-          <h2>Your Tokens</h2>
+          <h3>Contract address : 0xBAd30C88046119f5E3831DD64a7f59Db19543da6</h3>
 
           <div className={styles.tokenGrid}>
             <div className={styles.tokenItem}>
