@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             <img src={`/icons/drop.webp`} alt="drop" />
             <h2 className={styles.selectBoxTitle}>Mint a new NFT</h2>
             <p className={styles.selectBoxDescription}>
-              Use the NFT Drop Contract to claim an NFT from the collection.
+              Use the NFT Collection Contract to claim an NFT from the collection.
             </p>
         </div>
 
@@ -33,7 +33,7 @@ const Home: NextPage = () => {
           <h2 className={styles.selectBoxTitle}>Stake Your NFTs</h2>
           <p className={styles.selectBoxDescription}>
             Use the custom staking contract deployed via <b>Thirdweb</b>{" "}
-            to stake your NFTs, and earn tokens from the <b>Diamond</b>.
+            to stake your NFTs, and earn <b>Diamond</b>.
           </p>
         </div>
       </div>
