@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             <img src={`/icons/drop.webp`} alt="drop" />
             <h2 className={styles.selectBoxTitle}>Mint a new NFT</h2>
             <p className={styles.selectBoxDescription}>
-              Use the NFT Collection Contract to claim an NFT from the collection.
+              Use the NFT Collection Contract to claim an NFT from the collection.Limited collection totaling 101 NFTs !
             </p>
         </div>
 
