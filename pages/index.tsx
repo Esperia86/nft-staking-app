@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             <img src={`/icons/drop.webp`} alt="drop" />
             <h2 className={styles.selectBoxTitle}>Mint a new NFT</h2>
             <p className={styles.selectBoxDescription}>
-              Use the NFT Collection Contract to claim an NFT from the collection. Limited Edition 101 NFTs !
+              Use the NFT Collection Contract to claim an NFT from the collection. Limited Edition 101 NFTs - 25 matic per NFT!
             </p>
         </div>
 
